@@ -14,7 +14,7 @@ form {
     margin: 10vh auto 0 auto;
     padding: 20px 50px;
     box-shadow: 0 0 1px 3px brown;
-    background-image: url('./images.jpg');
+    background-color: black;
     opacity: initial;
 }
 
