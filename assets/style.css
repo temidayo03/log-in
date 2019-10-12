@@ -30,7 +30,7 @@ label {
 input {
     width: 100%;
     line-height: 45px;
-    background-image: url("../1.jpg");
+    background: black;
     border: 0xpx;
     border-bottom: 3px solid rgb(134, 30, 56);
     font-size: 30px;
