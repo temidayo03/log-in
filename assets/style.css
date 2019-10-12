@@ -6,14 +6,16 @@
 }
 
 body {
-    background: white;
+    background-image: url("./65Caef157286C476E3B221Bfa439873B.jpg");
 }
 
 form {
     width: 30%;
     margin: 10vh auto 0 auto;
     padding: 20px 50px;
-    box-shadow:0 0 1px 2px red;
+    box-shadow: 0 0 1px 3px brown;
+    background-color: black;
+    opacity: initial;
 }
 
 .input-group {
@@ -28,8 +30,9 @@ label {
 input {
     width: 100%;
     line-height: 45px;
-    border: 0px;
-    border-bottom: 2px solid black;
+    background-image: url("../1.jpg");
+    border: 0xpx;
+    border-bottom: 3px solid rgb(134, 30, 56);
     font-size: 30px;
     padding: 0 10px;
 }
@@ -41,8 +44,17 @@ button {
     background: black;
     color: white;
     font-size: 30px;
+    border-radius: 25px;
+    border-color: brown;
+    box-shadow: rgba(0,0,0,0.8)10, 10px;
+    border: 3px solid brown;
 }
 
 .text-center {
-    text-align: center;
+    text-align: left;
+    color: blanchedalmond;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+    text-decoration: underline  brown;
 }
